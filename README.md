@@ -7,4 +7,4 @@ bunch of scripts for schizophrenic people
 Add `Plug 'chrnz008/schizo.vim'` to vimrc
 
 - manual installation
-Copy `plugin/schizo.vim` to `$VIMRUNTIME/plugin/schizo.vim`
+Copy `plugin/schizo.vim` to `$MYVIMDIR/plugin/schizo.vim`
